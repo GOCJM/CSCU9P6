@@ -27,6 +27,7 @@ Some issues can occur with the Visual Paradigm plugin for IntelliJ.
 5) Right click on that project and navigate to **Visual Paradigm > Open Visual Paradigm**
 
 ![Open Visual Paradigm Plugin](images/openVPPlugin.png "Open Visual Paradigm Plugin")
+
 6) Wait for the project directory to be populated, in my case it was called vpprojects, it will contain a **.vpp** file.
 7) Once Visual Paradigm has opened, you should see the new tabs available.
 
